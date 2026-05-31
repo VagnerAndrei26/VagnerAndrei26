@@ -18,7 +18,7 @@ Over the years I have reviewed 40+ projects across contests and bug bounties, an
 
 ## Summary
 
-- 3+ years auditing Solidity and Clarity
+- 3+ years auditing web3 projects in multiple stacks/progamming languages (solidity/clarity)
 - Former Sherlock Security Expert for 1 year and 9 months
 - 8 top-3 results across audit platforms
 - Top-20 HackenProof leaderboard
