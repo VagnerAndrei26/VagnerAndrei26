@@ -1,6 +1,9 @@
 # Vagner Andrei
 
-> I spend my time auditing protocols, following the mechanics closely, and looking for the things that can actually break them. Over the years I have reviewed 40+ projects across contests and bug bounties, and I spent 1 year and 9 months as a Sherlock Security Expert helping the company grow and helping teams find the strongest security path for their protocols.
+<p>
+I spend my time auditing protocols, following the mechanics closely, and looking for the things that can actually break them.<br>
+Over the years I have reviewed 40+ projects across contests and bug bounties, and I spent 1 year and 9 months as a Sherlock Security Expert helping the company grow and helping teams find the strongest security path for their protocols.
+</p>
 
 <p align="center">
   <a href="https://github.com/VagnerAndrei26">GitHub</a> .
@@ -18,7 +21,7 @@
 - 3+ years auditing Solidity and Clarity
 - Former Sherlock Security Expert for 1 year and 9 months
 - 8 top-3 results across audit platforms
-- Top-20 HackenProof leaderboard presence
+- Top-20 HackenProof leaderboard
 
 ## Audit Contests
 
