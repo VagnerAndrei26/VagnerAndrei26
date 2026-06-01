@@ -41,8 +41,8 @@ Over the years I have reviewed 40+ projects across contests and bug bounties, an
 | Project | Description | Findings |
 | --- | --- | --- |
 | Nado Protocol | Kraken's central-limit orderbook DEX on Ink L2 with unified margin and spot/perp trading. | `1 high, 2 medium, 3 low` |
-| Strobe Finance | Non-custodial interest-bearing liquidity markets for supplying and borrowing digital assets. | `1 critical` |
-| Granite Protocol | Bitcoin liquidity protocol on Stacks that lets users borrow stablecoins against BTC with isolated markets and soft liquidations. | `1 low` |
+| Strobe Finance | Non-custodial interest-bearing liquidity markets for supplying and borrowing digital assets on XRLP Sidechain. | `1 critical` |
+| Granite Protocol | Bitcoin liquidity protocol on Stacks that lets users borrow stablecoins against BTC with isolated markets and soft liquidations on Stacks. | `1 low` |
 
 ## Public Profiles
 
